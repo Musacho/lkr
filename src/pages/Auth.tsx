@@ -145,7 +145,7 @@ export default function Auth() {
 
           <div className="text-center lg:text-left">
             <h2 className="font-serif text-2xl font-bold text-foreground">
-              Welcome back
+              Welcome backk
             </h2>
             <p className="text-muted-foreground mt-2">
               Sign in to access the result management system
