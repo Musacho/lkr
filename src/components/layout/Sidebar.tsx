@@ -49,7 +49,7 @@ export function Sidebar() {
       <div className="p-6 border-b border-border">
         <div className="flex items-center gap-3">
           <div className="w-12 h-12 rounded-lg flex items-center justify-center">
-            <img src='/logo/nqnm12h2.png' className="w-16 h-15"/>
+            <img src='logo/nqnm12h2.png' className="w-16 h-15"/>
           </div>
           <div>
             <h1 className="font-serif font-bold text-lg text-foreground">Lake Road</h1>

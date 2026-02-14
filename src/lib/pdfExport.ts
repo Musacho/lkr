@@ -37,7 +37,7 @@ function generateSingleReport(doc: jsPDF, data: StudentReportData) {
   let yPos = 20;
 
   // Logo
-  doc.addImage('/logo/nqnm12h2.png', 'PNG', pageWidth / 2 - 17.5, yPos, 35, 35);
+  doc.addImage('logo/nqnm12h2.png', 'PNG', pageWidth / 2 - 17.5, yPos, 35, 35);
   yPos += 43;
 
   // Header - compact

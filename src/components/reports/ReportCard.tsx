@@ -58,7 +58,7 @@ export function ReportCard({ student }: ReportCardProps) {
         <div className="text-center border-b border-border pb-6 mb-6">
           <div className="flex justify-center mb-4">
             <div className="w-35 h-20 rounded-full  flex items-center justify-center">
-              <img src='/logo/nqnm12h2.png' className="w-35 h-20 text-primary-foreground" />
+              <img src='logo/nqnm12h2.png' className="w-35 h-20 text-primary-foreground" />
             </div>
           </div>
           <h1 className="font-serif text-2xl font-bold text-foreground">{schoolInfo.name}</h1>
